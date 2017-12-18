@@ -1,4 +1,4 @@
-# NG2 Finance
+# Numy Finance
 
 [![Build Status](https://travis-ci.org/jjhester-dev/numyfinance.svg?branch=master)](https://travis-ci.org/jjhester-dev/numyfinance)
 [![Coverage Status](https://coveralls.io/repos/github/jjhester-dev/numyfinance/badge.svg?branch=master)](https://coveralls.io/github/jjhester-dev/numyfinance?branch=master)
@@ -6,11 +6,7 @@
 [![Dependencies Status](https://david-dm.org/jjhester-dev/numyfinance/status.svg)](https://david-dm.org/jjhester-dev/numyfinance)
 [![DevDependencies Status](https://david-dm.org/jjhester-dev/numyfinance/dev-status.svg)](https://david-dm.org/jjhester-dev/numyfinance?type=dev)
 
-Finance dashboard using Yahoo's public APIs. 
-* [Live Demo*](http://projects.marinpetkov.com/numyfinance/#/watchlist/FB) - Loads Yahoo's public API.
-* [Static Demo*](http://projects.marinpetkov.com/numyfinance/static/#/watchlist/FB) - Loads local JSON files.
-
-<i>*This is for demo purposes only, please don't rely on the prices provided.</i>
+Inspired by a few sources. 
 
 ![Screenshot](http://projects.marinpetkov.com/ng2-finance/preview.jpg)
 
